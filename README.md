@@ -9,3 +9,5 @@ Diabetes Data Analysis->Data from diabetic patients has been analyzed to make st
 Heart Attack Risk Prediction->This project involves data analysis and machine learning methods to determine heart attack risk. The model makes predictions based on risk factors.
 
 Football Players Stats->
+
+Titanic_Survived_Prediction->
