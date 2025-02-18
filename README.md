@@ -10,4 +10,4 @@ Heart Attack Risk Prediction->This project involves data analysis and machine le
 
 Football Players Stats->
 
-Titanic_Survived_Prediction->
+Titanic Survived Prediction-> This project predicts passenger survival on the Titanic using data analysis and machine learning. Python is used for data processing, visualization, and model training.
